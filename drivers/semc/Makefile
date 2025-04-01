@@ -1,0 +1,11 @@
+obj-y				+= adux1050/
+obj-y				+= battchg_ext/
+obj-y				+= battman_dbg/
+obj-y				+= bu520x1nvx/
+obj-y				+= camera_sync/
+obj-y				+= hdmi_detect/
+obj-y				+= ldo_vibrator/
+obj-y				+= sim_detect/
+obj-y				+= slg51000_regulator/
+obj-y				+= sony_camera/
+header-y			+= include/
